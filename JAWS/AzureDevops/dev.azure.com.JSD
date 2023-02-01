@@ -1,0 +1,9 @@
+:script GetAssignedCar
+:SearchRank 1
+
+:script GoToMenu
+:SearchRank 1
+
+:script GoToBoard
+:SearchRank 1
+

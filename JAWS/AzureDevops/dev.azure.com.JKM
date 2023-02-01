@@ -1,0 +1,5 @@
+[Laptop Keys]
+Shift+Control+G=GetAssignedCar
+[Common Keys]
+Shift+Control+B=GoToBoard
+Shift+Control+M=GoToMenu
